@@ -2,6 +2,7 @@ type Cliente {
     id:ID
     nome:String
     email:String
+    compras:[Compra]!
 }
 
 extend type Query {

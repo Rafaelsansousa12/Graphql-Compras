@@ -8,3 +8,5 @@ INSERT INTO produto (id, nome, valor) VALUES (3, 'Bermuda', 60);
 INSERT INTO produto (id, nome, valor) VALUES (4, 'Camiseta', 80);
 INSERT INTO produto (id, nome, valor) VALUES (5, 'Chuteira', 130);
 
+
+drop table produto
